@@ -300,10 +300,6 @@ src: /pages/61.slide.md
 layout: center
 ---
 
-<style>
-.shiki {font-size: 1.5rem !important;}
-</style>
-
 ```bash
 ➜ git-presentation git:(main) ✗ git commit -m "KRAJ"
 [main a1b2c3d] KRAJ
